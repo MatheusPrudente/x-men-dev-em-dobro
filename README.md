@@ -1,9 +1,9 @@
 # x-men-dev-em-dobro
 <p>
-    <img src="https://img.shields.io/github/languages/count/MatheusPrudente/bora-codar"/>
-    <img src="https://img.shields.io/github/repo-size/MatheusPrudente/bora-codar"/>
-    <img src="https://img.shields.io/github/last-commit/MatheusPrudente/bora-codar"/>
-    <img src="https://img.shields.io/github/issues/MatheusPrudente/bora-codar"/>
+    <img src="https://img.shields.io/github/languages/count/MatheusPrudente/x-men-dev-em-dobro"/>
+    <img src="https://img.shields.io/github/repo-size/MatheusPrudente/x-men-dev-em-dobro"/>
+    <img src="https://img.shields.io/github/last-commit/MatheusPrudente/x-men-dev-em-dobro"/>
+    <img src="https://img.shields.io/github/issues/MatheusPrudente/x-men-dev-em-dobro"/>
 </p>
 
 ## Tecnologias 
