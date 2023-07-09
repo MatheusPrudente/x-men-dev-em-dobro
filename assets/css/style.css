@@ -1,6 +1,6 @@
 * {
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
@@ -9,14 +9,14 @@ ul {
 }
 
 body {
-  font-family: "oxanium", cursive;
-  background-color: #000;
-  color: #fff;
+  font-family: "Oxanium", cursive;
+  background-color: hsl(0, 0%, 0%);
+  color: #ffffff;
 }
 
 body::before {
   content: "";
-  background-image: url('../images/bg-desktop.jpg');
+  background-image: url("../images/bg-desktop.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -55,7 +55,7 @@ body::before {
   gap: 25px;
 }
 
-.selecao-de-personagens .titulo {
+.selecao-de-personagens .personagens .titulo {
   font-size: 20px;
   letter-spacing: 4px;
   text-transform: uppercase;
@@ -77,15 +77,18 @@ body::before {
   text-align: center;
   max-height: 530px;
 }
+
 .personagem-selecionado .personagem-grande {
   width: 430px;
   height: 430px;
 }
+
 .personagem-selecionado .nome-personagem {
   border-bottom: 2px solid #47f4ff;
   letter-spacing: 4px;
   text-transform: uppercase;
 }
+
 .personagem-selecionado .descricao-personagem {
   font-size: 16px;
   line-height: 22px;
@@ -109,21 +112,23 @@ body::before {
     margin-top: 37px;
   }
 
-  .selecao-de-personagens .personagens.titulo {
+  .selecao-de-personagens .personagens .titulo {
     font-size: 15px;
   }
 
   .selecao-de-personagens .lista-de-personagens {
-    gap: 9px;
+    gap: 9px
   }
 
   .selecao-de-personagens .personagem img {
     width: 80px;
   }
+
   .personagem-selecionado .personagem-grande {
     width: 350px;
     height: 350px;
   }
+
   .personagem-selecionado .descricao-personagem {
     width: 80%;
     font-size: 16px;
